@@ -78,7 +78,7 @@ The design focuses on creating a professional and trustworthy atmosphere while m
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url](https://github.com/mahendrakhichar/MBBS_Abroad_Plateform)]
    ```
 
 2. Install dependencies:
