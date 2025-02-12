@@ -121,14 +121,9 @@ Key responsive features:
 
 The site is deployed on Netlify with continuous deployment from the main branch.
 
-## 📄 License
-
-MIT License - feel free to use this project for your own purposes.
-
 ## 👨‍💻 Author
 
 Mahendra Khichar
 
 ---
 
-Feel free to contribute to this project by creating issues or submitting pull requests!
